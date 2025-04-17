@@ -2,7 +2,7 @@
 
 **Author:** Pawel Kampen  
 **Contact:** pawel.kampen.b@tuta.com  
-**Telegram:** [@NastzawrBerlin](https://t.me/PawelKampen)
+**Telegram:** [@PawelKampen](https://t.me/PawelKampen)
 
 ---
 
