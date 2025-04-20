@@ -2,7 +2,7 @@
 
 **Author:** Pawel Kampen  
 **Contact:** pawel.kampen.b@tuta.com  
-**Telegram:** [@PawelKampen](https://t.me/PawelKampen)
+**Telegram:** [@NastzawrBerlin](https://t.me/NastzawrBerlin)
 
 ---
 
@@ -13,6 +13,10 @@ Ghostboard is a conceptual keyboard layout offering an enhanced secure input mod
 The keyboard is divided into two zones:
 - **Numeric Zone:** Top row with numbers (0–9) and a few additional symbols.
 - **Alphabet Zone:** Main block with letters (a–z).
+
+Ghostboard can be used on:
+- Devices with touchscreens (phones, tablets)
+- Devices with mouse input (e.g., terminals, ATMs, kiosks)
 
 ---
 
@@ -34,18 +38,25 @@ Upon activation, all letters and numbers are randomly shuffled within their resp
 
 ## Future Enhancements
 
-- Security fonts to counter AI text recognition.
-- Emoji-based digits (e.g. ☝️ = 1, ✌️ = 2) to hinder screen pattern tracking.
+- Security fonts and visual distortions to counter AI recognition.
+- Emoji-based digits (e.g. ☝️ = 1, ✌️ = 2) to make screen tracking harder.
+- Confusion mode: visual decoys and animated distractions.
+- Multi-layout support: switch between 5 of the most used global languages with a single button.
+- One-tap mode switch (Pro / Simple).
+- Compatibility with devices using mouse input.
+- Full zone customization and visual skinning.
+- Licensing options for banking, public kiosks, and government use.
+- And more: from conceptual ideas to commercial strategies.
 
 ---
 
 ## Protection Against Threats
 
-| Threat                      | Protection Mechanism                                                                      |
-|----------------------------|--------------------------------------------------------------------------------------------|
-| **Keyloggers**             | Constant reshuffling makes key logs useless.                                               |
-| **Screen Recording**       | Visual input becomes unpredictable and hard to track.                                     |
-| **AI Touch Analysis**      | No stable typing patterns — AI training and detection become ineffective.                 |
+| Threat               | Protection Mechanism                                                       |
+|---------------------|-----------------------------------------------------------------------------|
+| **Keyloggers**       | Constant reshuffling makes key logs useless.                                |
+| **Screen Recording** | Visual input becomes unpredictable and hard to track.                       |
+| **AI Touch Analysis**| No stable typing patterns — AI training and detection become ineffective.   |
 
 ---
 
@@ -53,7 +64,8 @@ Upon activation, all letters and numbers are randomly shuffled within their resp
 
 - Android / iOS smartphones
 - Tablets
-- Any device with a touch keyboard (including terminals)
+- Touchscreen-based terminals (banking, security)
+- Desktop systems using on-screen input with a mouse
 
 ---
 
